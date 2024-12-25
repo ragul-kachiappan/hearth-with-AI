@@ -24,3 +24,4 @@ I'm building it mainly to test my newly acquired skills and deep dive into it.
 - Possibly Oauth with gmail. Not mandatory.
 - Proper test suite.
 - Proper markdown docs.
+- cicd for linting checks.
