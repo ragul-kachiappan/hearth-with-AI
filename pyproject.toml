@@ -5,6 +5,7 @@ description = "Chat Room with builtin AI support."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "jinja2>=3.1.5",
     "pre-commit>=4.0.1",
     "ruff>=0.8.4",
     "starlette>=0.42.0",

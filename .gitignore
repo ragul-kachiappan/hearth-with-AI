@@ -172,3 +172,5 @@ cython_debug/
 
 # envrc
 .envrc
+
+.dev_rough
