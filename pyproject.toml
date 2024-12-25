@@ -1,0 +1,10 @@
+[project]
+name = "hearth-with-ai"
+version = "0.1.0"
+description = "Chat Room with builtin AI support."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pre-commit>=4.0.1",
+    "ruff>=0.8.4",
+]
