@@ -174,3 +174,5 @@ cython_debug/
 .envrc
 
 .dev_rough
+
+.vscode/settings.json
