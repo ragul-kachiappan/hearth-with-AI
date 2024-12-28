@@ -1,4 +1,4 @@
-# hearth-with-AI
+# hearth
 
 Build a local chat room with Llama based bot feature accessible via Wifi.
 
