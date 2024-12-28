@@ -26,3 +26,4 @@ I'm building it mainly to test my newly acquired skills and deep dive into it.
 - Proper markdown docs.
 - cicd for linting checks.
 - Deployment to GKE with GCP free credits
+- maybe terraform for provisioning some AWS resources like ECR, Bucket, SSM

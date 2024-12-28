@@ -1,6 +1,9 @@
 [env]
 _.file = '.env'
 
+[tools]
+python = "3.12.7"
+
 [hooks.enter]
 shell = "bash"
 script = "source .venv/bin/activate"
