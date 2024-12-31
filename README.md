@@ -25,3 +25,4 @@ I'm building it mainly to test my newly acquired skills and deep dive into it.
 - Proper test suite.
 - Proper markdown docs.
 - cicd for linting checks.
+- Deployment to GKE with GCP free credits
