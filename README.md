@@ -24,5 +24,5 @@ I'm building it mainly to test my newly acquired skills and deep dive into it.
 - Possibly Oauth with gmail. Not mandatory.
 - Proper test suite.
 - Proper markdown docs.
-- cicd for linting checks.
 - Deployment to GKE with GCP free credits
+- cicd for linting checks (ruff, yaml, toml, js, html, css).
